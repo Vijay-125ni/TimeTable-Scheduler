@@ -1,0 +1,37 @@
+
+*$py.class
+build/
+*.db
+dist/
+.DS_Store
+env/
+.eslintcache
+frontend/node_modules/
+.gemini/
+.idea/
+*.local
+.env
+backend/.env
+.env.txt
+*.log
+# Node
+node_modules/
+pkg/
+*.pyc
+__pycache__/
+*.py[cod]
+# Python
+sql_app.db
+*.sqlite3
+Thumbs.db
+# Tool generated
+.venv/
+venv/
+venv_short/
+.vscode/
+package.json
+package-lock.json
+.coverage
+uploads/
+backend/uploads/
+backend/.env.txt
