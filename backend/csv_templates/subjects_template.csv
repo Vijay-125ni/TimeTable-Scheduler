@@ -1,0 +1,4 @@
+name,code,hours_per_week,requires_lab,department_codes,batch_name
+Data Structures,CS201,4,false,CS;IT,Batch A
+Digital Systems,EC201,4,true,ECE,Batch A
+Fluid Mechanics,ME301,3,false,ME,Batch B

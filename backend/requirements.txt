@@ -1,0 +1,42 @@
+fastapi>=0.115.6
+uvicorn[standard]>=0.30.0
+pymongo[srv]>=4.10.1
+PyJWT>=2.13.0
+passlib[bcrypt]==1.7.4
+python-multipart>=0.0.27
+pydantic
+pydantic-settings
+ortools
+python-dotenv>=1.2.2
+email-validator
+openai
+pypdf
+openpyxl
+python-docx
+pillow
+pytesseract
+pdf2image
+# ── Knowledge Ingestion Module ──────────────────────────────────────────────
+PyMuPDF
+pdfplumber
+camelot-py[cv]
+pandas
+beautifulsoup4
+python-pptx
+lxml
+# OCR
+# paddleocr
+# paddlepaddle
+opencv-python-headless
+# NLP & Embeddings
+spacy
+sentence-transformers
+# Duplicate Detection
+rapidfuzz
+# Vector Search (local fallback)
+faiss-cpu
+# Logging
+loguru
+# Security
+python-magic
+slowapi

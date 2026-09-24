@@ -1,0 +1,8 @@
+﻿{
+  "name": "Test Schedule",
+  "academic_year": "2025-2026",
+  "semester": 2,
+  "working_days": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+  "periods_per_day": 7,
+  "constraints_text": "Professor Shiva cannot teach on Tuesday or Friday afternoons, and all second-year classes must have at least one free period before lunch."
+}

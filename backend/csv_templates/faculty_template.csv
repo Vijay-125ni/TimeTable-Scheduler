@@ -1,0 +1,4 @@
+name,email,department_code,max_hours_per_week,unavailable_slots
+Dr. Shiva,shiva@university.edu,CS,20,"[]"
+Dr. Priya,priya@university.edu,IT,18,"[]"
+Prof. Kumar,kumar@university.edu,ECE,22,"[]"
